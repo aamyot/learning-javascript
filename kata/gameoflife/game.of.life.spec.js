@@ -1,4 +1,4 @@
-require('./game.of.life');
+require('./game.of.life.js');
 
 describe('Game Of Life: ', function() {
 

@@ -1,4 +1,4 @@
-require('./roman.translator');
+require('./roman.translator.js');
 
 describe('Roman Numerals Translator: ', function() {
 
