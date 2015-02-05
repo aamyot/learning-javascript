@@ -12,7 +12,7 @@ prime = {
             candidate++;
 
         }
-        return primes;
 
+        return primes;
     }
 }
